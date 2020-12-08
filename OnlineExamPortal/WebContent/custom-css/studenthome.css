@@ -1,0 +1,25 @@
+
+#footertxt1{
+	color:#2F363F;
+}
+#logoutbtn{
+	margin-left:700px !important;
+}
+
+#startexambtn{
+	margin-top: 10px;
+	margin-left: 200px;
+}
+.panel-body .btn:not(.btn-block){
+	width:150px;
+	margin-bottom:10px;
+}
+#vsbtn{
+	margin-left:30px;
+}
+#updatepwdbutton{
+	margin-left: 350px;	
+}
+#opmsg{
+	margin-left:500px;
+}

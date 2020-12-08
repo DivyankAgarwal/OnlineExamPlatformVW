@@ -1,0 +1,51 @@
+
+#card{
+	position:relative;
+	margin-top:200px;
+	margin-left:300px;
+	width=100%;
+	border: 2px solid;
+	border-radius: 25px;
+	padding:20px 20px 20px 20px;
+	
+	
+}
+
+
+
+#radio{
+	display:flex;
+	justify-content: center;
+	
+}
+
+#titlefont{
+	font-family: sans-serif;
+}
+#footertxt{
+	color: white;
+}
+#footertxt1{
+	color:#2F363F;
+}
+
+hr .titlebelowline{
+	border: 2px;
+	color: black;
+	
+}
+.inner-addon{
+	position:relative;
+	
+}
+.inner-addon .glyphicon{
+	position: absolute;
+	padding: 10px;
+	pointer-events:none;
+}
+.left-addon input{
+	padding-left: 30px;
+}
+.right-addon input{
+	padding-right: 30px;
+}

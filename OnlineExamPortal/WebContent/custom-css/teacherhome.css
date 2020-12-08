@@ -1,0 +1,14 @@
+body{
+	
+	padding-top: 20px;
+}
+.panel-body .btn:not(.btn-block){
+	width:150px;
+	margin-bottom:10px;
+}
+#vsbtn{
+	margin-left:120px;
+}
+#logoutbtn{
+	margin-left:700px !important;
+}
